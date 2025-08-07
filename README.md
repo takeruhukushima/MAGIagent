@@ -1,4 +1,4 @@
-# MAGI: Materials science research assistance with human-in-the-loop AI agents
+# MAGI: Manus Artificial General Intelligence for academic research assistance with human-in-the-loop AI agents
 
 MAGI (Manus Artificial General Intelligence) is a system designed to assist with materials science research by coordinating multiple specialized AI agents under human supervision.
 
