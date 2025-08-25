@@ -32,7 +32,7 @@ from .sub_agents.survey_agent.agent import survey_agent
 from .prompt import MASTER_AGENT_PROMPT
 
 # Model to be used by the agent
-MODEL = "gemini-2.5-pro"
+MODEL = "gemini-2.5-flash"
 
 
 def create_magi_agent() -> LlmAgent:

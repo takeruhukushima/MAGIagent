@@ -21,7 +21,7 @@ from google.adk.tools import google_search
 from . import prompt
 
 # Model to be used by the agent
-MODEL = "gemini-2.5-pro"
+MODEL = "gemini-2.5-flash"
 
 def planning_agent() -> LlmAgent:
     """Create and return a Planning Agent instance.

@@ -22,7 +22,7 @@ from google.adk.tools.agent_tool import AgentTool
 from . import prompt
 
 # Model to be used by the agent
-MODEL = "gemini-2.5-pro"
+MODEL = "gemini-2.5-flash"
 
 class PandasAgent(Agent):
     """Wrapper around pandas to make it work as an agent."""

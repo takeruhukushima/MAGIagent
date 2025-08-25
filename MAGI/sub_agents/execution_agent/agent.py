@@ -20,7 +20,7 @@ from google.adk.tools.agent_tool import AgentTool
 from . import prompt
 
 # Model to be used by the agent
-MODEL = "gemini-2.5-pro"
+MODEL = "gemini-2.5-flash"
 
 def execution_agent(knowledge_agent: Optional[Any] = None) -> LlmAgent:
     """Create and return an Execution Agent instance.
